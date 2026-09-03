@@ -1,2 +1,4 @@
 # Not pushing data files to GitHub
 data/
+
+.ipynb_checkpoints/
