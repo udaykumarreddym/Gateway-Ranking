@@ -1,121 +1,121 @@
 week_start,rank,gateway_id,score,reason
-2026-02-02,1,0A2778A31BE3,43.0,43 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-02,2,0E1B6F4DBA34,26.0,26 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-02,3,06F49BD8F572,26.0,26 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-02,4,064AED1EC0AA,26.0,26 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-02,5,0EF023E6452D,23.0,23 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-02,6,0A6324E3E043,22.0,22 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-02,7,0A4E33E2692B,22.0,22 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-02,8,02EBC6CD4398,20.0,20 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-02,9,0AA473D2FC17,20.0,20 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-02,10,06FFEC2EFA5E,19.0,19 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-02,11,0A1FB1C98A92,19.0,19 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-02,12,0A7AC5BDAF86,19.0,19 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-02,13,0EE09EDA649F,19.0,19 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-02,14,06F2CDBD2C41,19.0,19 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-02,15,0A3528D089D9,18.0,18 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-09,1,0A68F38A6ACF,40.0,40 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-09,2,0228A99EE35A,34.0,34 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-09,3,0A3983033084,24.0,24 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-09,4,0AA296FF247D,22.0,22 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-09,5,02097AB58D3C,21.0,21 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-09,6,06D6B7018E15,21.0,21 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-09,7,0A1FB1C98A92,21.0,21 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-09,8,0A71A6F9D6C6,19.0,19 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-09,9,0E9DC914D8DF,19.0,19 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-09,10,0A4E33E2692B,19.0,19 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-09,11,0A6324E3E043,19.0,19 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on reboot_cnt
-2026-02-09,12,06D84598CCB4,18.0,18 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-09,13,0A7AC5BDAF86,17.0,17 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-09,14,0230D261A1CD,16.0,16 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-09,15,06787526FEB3,16.0,16 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-16,1,0A4673793B3E,38.0,38 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-16,2,0228A99EE35A,35.0,35 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on reboot_cnt
-2026-02-16,3,0AA296FF247D,32.0,32 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-16,4,065B928716CD,31.0,31 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-16,5,0A68F38A6ACF,30.0,30 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-16,6,02D49A34B2FE,29.0,29 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on reboot_cnt
-2026-02-16,7,0E69C64B6E57,25.0,25 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-16,8,0A4E33E2692B,25.0,25 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on reboot_cnt
-2026-02-16,9,0A6324E3E043,24.0,24 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-16,10,06F170E6BB03,23.0,23 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-16,11,0A68DF0B3D07,22.0,22 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-16,12,06238EE3BE6C,21.0,21 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on reboot_cnt
-2026-02-16,13,0A7AAFDD9E11,21.0,21 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-16,14,0230D261A1CD,20.0,20 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-16,15,060EE3CB4779,19.0,19 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-23,1,0228A99EE35A,39.0,39 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-23,2,06238EE3BE6C,38.0,38 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-23,3,0E1D7CA1DB0C,29.0,29 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-23,4,02D7623552C8,28.0,28 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-23,5,0AA473D2FC17,27.0,27 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-23,6,0EF023E6452D,26.0,26 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-23,7,0E3D96237639,26.0,26 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-23,8,0A4E33E2692B,26.0,26 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on reboot_cnt
-2026-02-23,9,060EE3CB4779,25.0,25 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-23,10,0E69C64B6E57,25.0,25 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-23,11,0A800188C20F,22.0,22 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-23,12,02D49A34B2FE,21.0,21 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-02-23,13,0ABC8E60F4C1,20.0,20 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-23,14,02F093C88F2E,20.0,20 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-02-23,15,0A6324E3E043,20.0,20 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-02,1,0EF023E6452D,30.0,30 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-02,2,024DD3A9ADCA,29.0,29 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-02,3,0E5303C82FCB,29.0,29 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-02,4,028B24EADDAD,25.0,25 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-02,5,0228A99EE35A,24.0,24 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-02,6,0EE071F7B24A,24.0,24 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-02,7,0A8407CF4D85,22.0,22 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-02,8,0A800188C20F,21.0,21 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-02,9,02D49A34B2FE,20.0,20 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-02,10,0E1D7CA1DB0C,19.0,19 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-02,11,0E121B6B8661,18.0,18 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-02,12,0AA4B065E5A5,18.0,18 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-02,13,060EE3CB4779,18.0,18 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-02,14,021406F56396,18.0,18 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-02,15,0A6324E3E043,17.0,17 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-09,1,0ABC8E60F4C1,25.0,25 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on reboot_cnt
-2026-03-09,2,06AEE181F595,25.0,25 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-09,3,024DD3A9ADCA,24.0,24 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-09,4,0A6324E3E043,24.0,24 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-09,5,029DA26B1A92,24.0,24 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-09,6,0E5303C82FCB,23.0,23 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-09,7,02F5CE7705EC,23.0,23 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-09,8,02075B45BF24,22.0,22 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-09,9,06C77FEA9550,21.0,21 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-09,10,06F170E6BB03,21.0,21 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on reboot_cnt
-2026-03-09,11,028B24EADDAD,20.0,20 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-09,12,0E2DEE345837,18.0,18 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-09,13,0E41CF7F74D5,18.0,18 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-09,14,0EE071F7B24A,17.0,17 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-09,15,0257E855DBCE,17.0,17 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-16,1,0A182EFD3C61,40.0,40 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-16,2,060C5773A61B,26.0,26 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-16,3,0A6324E3E043,21.0,21 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-16,4,0A268A7E40CD,20.0,20 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-16,5,0ABC8E60F4C1,20.0,20 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-16,6,0656377B3078,20.0,20 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-16,7,02F5CE7705EC,19.0,19 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-16,8,06AEE181F595,18.0,18 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-16,9,0A184A2E46B7,18.0,18 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-16,10,0230EEF72435,18.0,18 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-16,11,06F170E6BB03,17.0,17 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on reboot_cnt
-2026-03-16,12,0A9A3BFD6C9B,17.0,17 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-16,13,028B24EADDAD,17.0,17 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-16,14,06DAF11BD38F,17.0,17 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-16,15,0A6D3595373D,15.0,15 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-23,1,0687F36E02C6,28.0,28 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-23,2,0E121B6B8661,25.0,25 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on reboot_cnt
-2026-03-23,3,060C5773A61B,24.0,24 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-23,4,0A182EFD3C61,23.0,23 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-23,5,02F5CE7705EC,21.0,21 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-23,6,021406F56396,21.0,21 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-23,7,0230D261A1CD,20.0,20 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-23,8,0EE51B79E853,19.0,19 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-23,9,0EE587927263,19.0,19 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-23,10,0ABE42BE4165,19.0,19 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-23,11,06AEE181F595,18.0,18 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-23,12,0EF47B410B41,17.0,17 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-23,13,0E5A9CEA8093,17.0,17 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
-2026-03-23,14,0217820BFFB2,16.0,16 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on offline_duration_sec
-2026-03-23,15,0AA473D2FC17,15.0,15 hour(s) beyond 3 sigma of this gateway's own 28-day baseline in the last 7 days; first breach on disconnection_cnt
+2026-02-02,1,064AED1EC0AA,0.9917168674698795,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-02,2,0E1B6F4DBA34,0.9894578313253012,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-02,3,06F2CDBD2C41,0.987198795180723,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-02,4,06F49BD8F572,0.9871987951807228,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-02,5,0EF023E6452D,0.9743975903614457,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-02,6,0EE09EDA649F,0.9646084337349398,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-02,7,0A2778A31BE3,0.963855421686747,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-02,8,0AB6B45C775A,0.954066265060241,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-02,9,0E9DC914D8DF,0.9499246987951807,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-02-02,10,061A4322745C,0.947289156626506,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-02,11,02423E0E6E9F,0.9446536144578312,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-02-02,12,0A4E33E2692B,0.9439006024096386,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-02,13,0A1FB1C98A92,0.9284638554216867,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-02,14,0A7AC5BDAF86,0.9194277108433735,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-02,15,0AD276FC5E27,0.9175451807228916,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-02-09,1,0A4E33E2692B,0.9913403614457831,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-09,2,0A1FB1C98A92,0.9849397590361446,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-09,3,0EE071F7B24A,0.9743975903614458,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-02-09,4,06787526FEB3,0.9597138554216867,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-09,5,02DC03A0F1E6,0.954066265060241,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-02-09,6,02F98EB34A7A,0.9457831325301205,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-09,7,02D7623552C8,0.9435240963855421,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-09,8,0A2778A31BE3,0.9375,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-02-09,9,0A68F38A6ACF,0.9344879518072289,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-09,10,0AA296FF247D,0.9299698795180723,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-09,11,0E4CE5FB4405,0.9277108433734939,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-02-09,12,0AB6B45C775A,0.9156626506024097,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-02-09,13,06F2CDBD2C41,0.9141566265060241,Selected due to high ML fault-risk signal and recent 3-sigma anomaly signal.
+2026-02-09,14,0A800188C20F,0.9092620481927711,Selected due to high ML fault-risk signal and recent 3-sigma anomaly signal.
+2026-02-09,15,0AF8DCB98E4B,0.8983433734939759,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-02-16,1,0228A99EE35A,0.9789156626506024,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-16,2,0E2DEE345837,0.9728915662650602,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-16,3,065B928716CD,0.9728915662650602,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-16,4,0E1B6F4DBA34,0.9698795180722891,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-16,5,02D49A34B2FE,0.9668674698795181,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-16,6,0AA2F2CAB50B,0.9661144578313252,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-16,7,0A6D3595373D,0.954066265060241,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-02-16,8,0A68F38A6ACF,0.954066265060241,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-16,9,0AA4B065E5A5,0.9480421686746987,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-16,10,0A4E33E2692B,0.9431475903614458,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-16,11,0A2778A31BE3,0.9333584337349399,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-02-16,12,02D7623552C8,0.922816265060241,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-02-16,13,06F2CDBD2C41,0.9198042168674699,Selected due to high ML fault-risk signal and recent 3-sigma anomaly signal.
+2026-02-16,14,0E5303C82FCB,0.9164156626506025,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-16,15,0AA296FF247D,0.9149096385542168,Selected due to elevated ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-23,1,065B928716CD,0.9811746987951807,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-23,2,0E69C64B6E57,0.9800451807228916,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-23,3,06238EE3BE6C,0.976656626506024,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-23,4,0EE51B79E853,0.9623493975903614,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-02-23,5,0A4E33E2692B,0.9548192771084336,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-23,6,02043B6BA08B,0.9544427710843373,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-02-23,7,0A6D3595373D,0.9484186746987953,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-23,8,02D7623552C8,0.9480421686746987,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-23,9,0283A18685C4,0.9435240963855421,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-02-23,10,0A3983033084,0.940512048192771,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-23,11,0E61D34F9993,0.9322289156626506,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-02-23,12,02D49A34B2FE,0.9307228915662651,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-23,13,0228A99EE35A,0.9141566265060241,Selected due to elevated ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-23,14,0230D261A1CD,0.9134036144578312,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-02-23,15,0AE6BF39C720,0.9028614457831325,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-02,1,0A8407CF4D85,0.9887048192771084,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-02,2,028B24EADDAD,0.9864457831325301,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-02,3,0EF023E6452D,0.9661144578313253,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-02,4,02D49A34B2FE,0.9646084337349398,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-02,5,06F170E6BB03,0.9608433734939759,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-02,6,024DD3A9ADCA,0.9536897590361446,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-02,7,060EE3CB4779,0.9506777108433735,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-02,8,0AFFC263C0D9,0.9356174698795181,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-02,9,0228A99EE35A,0.9356174698795181,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-02,10,02D7623552C8,0.924698795180723,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-02,11,0A5D017E401E,0.9167921686746988,Selected due to high ML fault-risk signal and recent 3-sigma anomaly signal.
+2026-03-02,12,02E12310186C,0.9130271084337349,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-02,13,0A68A2032450,0.9122740963855422,Selected due to high ML fault-risk signal and recent 3-sigma anomaly signal.
+2026-03-02,14,0A6D3595373D,0.911144578313253,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-02,15,0EE317BA7C52,0.9051204819277108,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-09,1,028B24EADDAD,0.9879518072289157,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-09,2,06C77FEA9550,0.9845632530120482,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-09,3,024DD3A9ADCA,0.9819277108433734,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-09,4,0EDC7177CCA9,0.9725150602409639,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-09,5,06AA1DE70CBF,0.9661144578313253,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-09,6,069357B9F15F,0.9525602409638554,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-09,7,065B928716CD,0.9506777108433735,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-09,8,0A4C884F240A,0.9439006024096386,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-09,9,0EF023E6452D,0.9412650602409638,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-09,10,023270320B57,0.9386295180722891,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-09,11,022476A1B657,0.9231927710843373,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-09,12,0A56038B20D0,0.9213102409638554,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-09,13,06F170E6BB03,0.9213102409638554,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-09,14,0AFFC263C0D9,0.9164156626506024,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-09,15,0A184A2E46B7,0.9096385542168675,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-16,1,0A182EFD3C61,0.9887048192771084,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-16,2,028B24EADDAD,0.9823042168674698,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-16,3,06AEE181F595,0.973644578313253,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-16,4,06F170E6BB03,0.96875,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-16,5,0A800188C20F,0.9679969879518073,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-16,6,02091DF7CCB8,0.9548192771084337,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-16,7,0EE317BA7C52,0.9439006024096386,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-16,8,060C5773A61B,0.9405120481927711,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-16,9,0AFFC263C0D9,0.9122740963855422,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-16,10,06DAF11BD38F,0.9054969879518073,Selected due to elevated ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-16,11,0E752F1B295C,0.9051204819277108,Selected due to elevated ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-16,12,06C77FEA9550,0.9047439759036144,Selected due to high ML fault-risk signal and recent 3-sigma anomaly signal.
+2026-03-16,13,0ABC8E60F4C1,0.9021084337349397,Selected due to elevated ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-16,14,02F5CE7705EC,0.8983433734939759,Selected due to elevated ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-16,15,02D49A34B2FE,0.8979668674698795,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-23,1,02F5CE7705EC,0.9898343373493976,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-23,2,0A182EFD3C61,0.9661144578313253,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-23,3,060C5773A61B,0.9623493975903614,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-23,4,0A78FAF47B00,0.9412650602409638,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-23,5,0E3A1141702A,0.9390060240963856,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-23,6,0EE587927263,0.9352409638554218,Selected due to high ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-23,7,027137436C87,0.9254518072289157,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-23,8,0A4C884F240A,0.9250753012048193,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-23,9,0A0B47664A85,0.9231927710843373,Selected due to high ML fault-risk signal and recent 3-sigma anomaly signal.
+2026-03-23,10,0E1D7CA1DB0C,0.9213102409638554,Selected due to high ML fault-risk signal and recent 3-sigma anomaly signal.
+2026-03-23,11,06AEE181F595,0.911144578313253,Selected due to elevated ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-23,12,0EE51B79E853,0.9103915662650602,Selected due to elevated ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-23,13,0E5A9CEA8093,0.9054969879518073,Selected due to elevated ML fault-risk signal and strong recent 3-sigma anomaly signal.
+2026-03-23,14,02478CD90F3A,0.9002259036144578,Selected due to high ML fault-risk signal and elevated recent 3-sigma anomaly signal.
+2026-03-23,15,022DB47C41AC,0.8851656626506024,Selected due to high ML fault-risk signal and recent 3-sigma anomaly signal.
