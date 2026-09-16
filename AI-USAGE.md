@@ -34,7 +34,7 @@ Important decisions were validated through executable checks, including:
 
 ## Baseline verification
 
-The supplied 3-sigma baseline was independently reproduced and compared with the official output.
+During development, the supplied 3-sigma baseline was independently reproduced and compared with the official output.
 
 The reproduction matched:
 
@@ -46,8 +46,6 @@ The reproduction matched:
 
 The final `predictions.csv` was audited using an executable validation script.
 
-The final audit passed:
-
-`20/20 checks`
+The final audit completed successfully, with all implemented submission, ranking, gateway ID, score, reason, and feature-dataset checks passing.
 
 AI assistance therefore supported development and review, while the final outputs were generated from the project's executable code and supplied data.

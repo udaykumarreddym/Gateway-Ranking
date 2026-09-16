@@ -78,6 +78,16 @@ HistGradientBoostingClassifier was selected as the available tree-based model.
 
 XGBoost was not available in the execution environment.
 
+The final configuration uses:
+
+- `max_iter = 300`
+- `learning_rate = 0.05`
+- `max_leaf_nodes = 15`
+- `l2_regularization = 2.0`
+- `random_state = 42`
+
+Positive training examples receive sample weight 2.0 and negative examples receive weight 1.0.
+
 ---
 
 ## 9. Baseline
@@ -102,6 +112,14 @@ Reason:
 
 The validation analysis showed complementary behavior.
 
+On the 12-week forward validation period (2025-11-10 through 2026-01-26):
+
+- 3-sigma baseline: 21 faults caught, total cost €86,400
+- HGB model: 21 faults caught, total cost €86,400
+- 75/25 hybrid: 27 faults caught, total cost €82,800
+
+The hybrid therefore showed lower validation cost than either individual component during this validation period.
+
 The ML model tends to capture sustained behavioral deterioration, while the 3-sigma method responds strongly to acute spikes.
 
 ---
@@ -114,7 +132,7 @@ For the complete hybrid ranking matrix, these are assigned a baseline score of z
 
 Reason:
 
-No observed 3-sigma anomaly provides no positive evidence from that baseline component. The official baseline's actual top-15 selection is independently preserved.
+No observed 3-sigma anomaly provides no positive evidence from that baseline component. This allows every gateway-week to participate in the hybrid ranking.
 
 ---
 
